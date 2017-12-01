@@ -1,5 +1,5 @@
 name,ring,quadrant,isNew,description  
-Composer,adopt,test,TRUE,"Although the idea of dependency management ..."  
-Canary builds,trying,techniques,FALSE,"Many projects have external code dependencies ..."  
-Apache Kylin,assess,manufacture,TRUE,"Apache Kylin is an open source analytics solution ..."  
-JSF,hold,blabla,FALSE,"We continue to see teams run into trouble using JSF ..."  
+Big Data,adopt,Technology,TRUE,"Here goes the describtion text for the item 1...."  
+IIoT,trying,Technology,FALSE,"Here goes the describtion text for the item 2...."  
+Agile Transformation,assess,Organizational,TRUE,"Here goes the describtion text for the item 3...."  
+Design Thinking,hold,Business,FALSE,"Here goes the describtion text for the item 4...."  
